@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00b4d8;">Alchemy</span></h1>
+<!-- TITLE & ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00B4D8&width=500&lines=👋+Hi%2C+I'm+Alchemy;Senior+AI+Engineer+%7C+Deep+Tech+Innovator;Transforming+Intelligence+into+Engineering..." alt="Typing SVG" />
+</h1>
+
 <h3 align="center">🚀 Senior AI Engineer | Machine Learning Architect | Deep Tech Innovator</h3>
 
 ---
@@ -78,8 +82,10 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" height="160"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=141321&color=00b4d8&line=00b4d8&point=f9f9f9&area=true&hide_border=true" alt="activity-graph" />
 </p>
 
 ---
@@ -93,6 +99,15 @@
 
 ---
 
-⭐️ *"Building intelligence, one model at a time."*  
-— **Alchemy**
+### 🌌 The Future of Intelligence
+> <p align="center"><i>“AI is not the future — it is the present awakening.  
+> The code we write today becomes the consciousness of tomorrow.”</i></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+⭐ *Building intelligence, one model at a time.*  
+— **Alchemy** 🧠
